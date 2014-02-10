@@ -14,6 +14,7 @@
  *
  * Revisions: I've found the calculated frequencies for the flats/sharps.
  * These numbers are derived from the period/2. The numbers below the table, in the actual code, have been tuned, though to a specific buzzer. I advise downloading a tuner app on your phone and testing each note you'll play.
+ * These have been tuned to a 2.048 kHz frequency buzzer, specifically http://www.digikey.com/product-detail/en/CEM-1203(42)/102-1153-ND/412412
  * note 	frequency 	period 	timeHigh
  * c 	        261 Hz 	        3830 	1915 	
  * d 	        294 Hz 	        3400 	1700 	
